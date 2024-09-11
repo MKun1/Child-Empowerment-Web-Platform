@@ -24,17 +24,6 @@ The platform provides compelling visuals and interactive tools to support the ca
 2. Navigate to the project directory:
 3. Open the home.html file in your preferred browser to view the platform locally.
 
-## Contributing
-Contributions are welcome! 
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-Fork the project.
-Create your feature branch: git checkout -b my-new-feature
-Commit your changes: git commit -m 'Add some feature'
-Push to the branch: git push origin my-new-feature
-Submit a pull request.
-
-
 ## Contact
 If you have any questions or suggestions, feel free to contact me at kundaimduduzi2@gmail.com
    
