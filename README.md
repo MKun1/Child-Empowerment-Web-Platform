@@ -24,6 +24,20 @@ The platform provides compelling visuals and interactive tools to support the ca
 2. Navigate to the project directory:
 3. Open the home.html file in your preferred browser to view the platform locally.
 
+## Contributing
+Contributions are welcome! Please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes and open a pull request.
+
+---
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+
 ## Contact
 If you have any questions or suggestions, feel free to contact me at kundaimduduzi2@gmail.com
    
